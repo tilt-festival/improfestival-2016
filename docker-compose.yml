@@ -3,7 +3,7 @@ version: "2"
 services:
   web:
     build: .
-    image: improv-jaa/improfestival-2016
+    image: tiltfestival/improfestival-2016
     ports:
       - 8080:8080
     volumes:
