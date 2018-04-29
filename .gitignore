@@ -4,3 +4,4 @@ _site
 _components
 vendor/
 .bundle/
+site.webmanifest
